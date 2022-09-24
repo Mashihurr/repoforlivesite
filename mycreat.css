@@ -1,0 +1,15 @@
+h1{
+    color: rgb(1, 85, 1);
+    background-color: pink;
+    height: 50px;
+    width: 50%;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+p{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    
+}
